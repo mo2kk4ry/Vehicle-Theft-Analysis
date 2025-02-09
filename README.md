@@ -30,6 +30,7 @@ This project analyzes six months of stolen vehicle data from the New Zealand Pol
         -Make details(make id,make name, make type)
         -Location(locaition id,region,country,population,density)
 ## Sample Query
+```SQL
 -- Categorizing vehicle thefts by age group
 SELECT
     CASE
