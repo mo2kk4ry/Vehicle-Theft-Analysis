@@ -23,11 +23,14 @@ This project analyzes six months of stolen vehicle data from the New Zealand Pol
 - **Regions with Low Theft Rates**: Schrader, Nelson, Southland, Tasman, Marlborough, West Coast.  
 
 ## Data Set Details
--**Source**: Maven Analytics
+-**Source**: Maven Analytics.
+
 -**Content**:
-        -stolen vehicules(vehicle id, vehicle type, vehicle description,
-        make id, model year, color, date stolen,location id)
-        -Make details(make id,make name, make type)
+        -stolen vehicules(vehicle id, vehicle type, vehicle description.
+        make id, model year, color, date stolen,location id).
+        
+        -Make details(make id,make name, make type).
+        
         -Location(locaition id,region,country,population,density)
 ## Sample Query
 ```SQL
@@ -44,8 +47,5 @@ GROUP BY vehicle_age_group
 ORDER BY total_thefts DESC;
 
 
-## How to Use This Repository
-1. Clone the repository:  
-   
-bash
-   git clone https://github.com/your-username/vehicle-thefts-analysis.git
+## Contact
+** Sanaba Kante **: kantesanaba78@gmail.com
