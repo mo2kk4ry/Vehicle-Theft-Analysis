@@ -48,7 +48,13 @@ FROM stolen_vehicles
 GROUP BY vehicle_age_group
 ORDER BY total_thefts DESC;
 
-## Contact
-** Sanaba Kante **: kantesanaba78@gmail.com
+## 📬 Contact
+
+**Sanaba Kante**  
+Email: [kantesanaba78@gmail.com](mailto:kantesanaba78@gmail.com)  
+Phone: +224 620 288 052  
+WhatsApp: +224 620 288 052  
+LinkedIn: [linkedin.com/in/sanaba-kante-70906830b](https://www.linkedin.com/in/sanaba-kante-70906830b)
+
 
 
